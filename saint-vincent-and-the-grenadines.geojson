@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -61.0784912109375, 
+                            13.054931640741415
+                        ], 
+                        [
+                            -61.12957763671875, 
+                            13.054687500116415
+                        ], 
+                        [
+                            -61.18841552734375, 
+                            13.111572265741415
+                        ], 
+                        [
+                            -61.1927490234375, 
+                            13.119750976678915
+                        ], 
+                        [
+                            -61.2032470703125, 
+                            13.140136718866415
+                        ], 
+                        [
+                            -61.20379638671875, 
+                            13.197387695428915
+                        ], 
+                        [
+                            -61.138427734375, 
+                            13.255126953241415
+                        ], 
+                        [
+                            -61.10345458984375, 
+                            13.249633789178915
+                        ], 
+                        [
+                            -61.09454345703125, 
+                            13.248291015741415
+                        ], 
+                        [
+                            -61.06842041015625, 
+                            13.215820312616415
+                        ], 
+                        [
+                            -61.04296875, 
+                            13.184326171991415
+                        ], 
+                        [
+                            -61.034912109375, 
+                            13.091186523553915
+                        ], 
+                        [
+                            -61.0594482421875, 
+                            13.070800781366415
+                        ], 
+                        [
+                            -61.0784912109375, 
+                            13.054931640741415
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "comment": "", 
+                "shape_stle": 0.58629225, 
+                "code": 501, 
+                "objectid": 232, 
+                "grade": 1, 
+                "dual_name": "", 
+                "water_lg": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "objectid1": 115287, 
+                "#layername": "Saint Vincent and the Grenadines", 
+                "#verticals": 1.0, 
+                "isvisible": 1, 
+                "#mapx": -61.078491211, 
+                "#mapy": 13.054931641, 
+                "continent": "North America", 
+                "#rotation": 0.0, 
+                "objectid_1": 123398, 
+                "#id": -214748364, 
+                "wg_populat": 0, 
+                "feature": "Country", 
+                "source": "", 
+                "state": "", 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 13.213500977, 
+                "#pagey": 28.549451828, 
+                "point_x": -61.078477377, 
+                "point_y": 13.05500222, 
+                "shape_star": 0.025267723, 
+                "wg_id": 0, 
+                "orig_fid": 228, 
+                "#opacity": 100, 
+                "name_conv": "Saint Vincent and the Grenadines", 
+                "gfid": "4318566E-F1E0-4DFB-BCA2-BA60D59C5215", 
+                "fips": "VC00", 
+                "water_sm": "", 
+                "population": 0, 
+                "country": "Saint Vincent and the Grenadines", 
+                "ocean": "", 
+                "#horizonta": 1.0, 
+                "island": "Windward Islands", 
+                "signif": 1, 
+                "name_loc2": "", 
+                "name_loc1": ""
+            }
+        }
+    ]
+}
