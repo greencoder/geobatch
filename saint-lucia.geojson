@@ -4,98 +4,65 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -60.9227294921875, 
-                            13.672241211053915
-                        ], 
-                        [
-                            -60.937255859375, 
-                            13.672119140741415
-                        ], 
-                        [
-                            -60.939697265625, 
-                            13.674316406366415
-                        ], 
-                        [
-                            -60.98876953125, 
-                            13.721679687616415
-                        ], 
-                        [
-                            -60.98272705078125, 
-                            13.872070312616415
-                        ], 
-                        [
-                            -60.9249267578125, 
-                            13.965576171991415
-                        ], 
-                        [
-                            -60.910400390625, 
-                            13.972778320428915
-                        ], 
-                        [
-                            -60.8665771484375, 
-                            13.965942382928915
-                        ], 
-                        [
-                            -60.8148193359375, 
-                            13.873413086053915
-                        ], 
-                        [
-                            -60.8648681640625, 
-                            13.751342773553915
-                        ], 
-                        [
-                            -60.9227294921875, 
-                            13.672241211053915
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 0.743038837, 
+                "shape_stle": 0.976100769, 
                 "code": 501, 
-                "objectid": 184, 
-                "grade": 1, 
+                "objectid": 0, 
+                "continent1": "North America", 
+                "grade": 2, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 115288, 
-                "#layername": "Saint Lucia", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 0.976171278, 
                 "isvisible": 1, 
-                "#mapx": -60.922729492, 
-                "#mapy": 13.672241211, 
-                "continent": "North America", 
-                "#rotation": 0.0, 
-                "objectid_1": 101611, 
+                "#style": "", 
+                "#layername": "Saint Lucia", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 1, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "047_WIND", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 13.230808258, 
-                "#pagey": 28.480861664, 
-                "point_x": -60.922709507, 
-                "point_y": 13.672234652, 
-                "shape_star": 0.034576307, 
-                "wg_id": 0, 
-                "orig_fid": 180, 
+                "#name": "<Path>", 
+                "ocean1": "", 
+                "#vertexcou": 31, 
+                "island1": "Windward Islands", 
+                "shape_star": 0.054467872, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
+                "island": "", 
+                "#artscale": 1.0, 
                 "#opacity": 100, 
-                "name_conv": "Saint Lucia", 
+                "name_conv": "", 
                 "gfid": "0CA11EF1-8573-4D62-9DE9-43B985FD9606", 
+                "_component": 1, 
                 "fips": "ST00", 
+                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": 0, 
-                "country": "Saint Lucia", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Saint Lucia", 
+                "name_loc21": "", 
+                "objectid1": 101595, 
+                "_vertexcou": 31, 
                 "ocean": "", 
-                "#horizonta": 1.0, 
-                "island": "Windward Islands", 
-                "signif": 1, 
+                "wg_id1": "", 
+                "country1": "Saint Lucia", 
+                "#area": 0.054455262, 
+                "#component": 1, 
+                "country": "", 
+                "signif": 2, 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

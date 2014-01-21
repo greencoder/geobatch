@@ -4,130 +4,65 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            9.765380859375, 
-                            46.959960937616415
-                        ], 
-                        [
-                            9.7620849609375, 
-                            46.907714843866415
-                        ], 
-                        [
-                            9.7010498046875, 
-                            46.958007812616415
-                        ], 
-                        [
-                            9.63623046875, 
-                            47.010375976678915
-                        ], 
-                        [
-                            9.5853271484375, 
-                            47.044067382928915
-                        ], 
-                        [
-                            9.5531005859375, 
-                            47.065185546991415
-                        ], 
-                        [
-                            9.492431640625, 
-                            47.105224609491415
-                        ], 
-                        [
-                            9.4337158203125, 
-                            47.191894531366415
-                        ], 
-                        [
-                            9.4290771484375, 
-                            47.206542968866415
-                        ], 
-                        [
-                            9.4617919921875, 
-                            47.230468750116415
-                        ], 
-                        [
-                            9.5518798828125, 
-                            47.296630859491415
-                        ], 
-                        [
-                            9.6695556640625, 
-                            47.247802734491415
-                        ], 
-                        [
-                            9.6719970703125, 
-                            47.243896484491415
-                        ], 
-                        [
-                            9.679443359375, 
-                            47.232299804803915
-                        ], 
-                        [
-                            9.7127685546875, 
-                            47.179687500116415
-                        ], 
-                        [
-                            9.745849609375, 
-                            47.104003906366415
-                        ], 
-                        [
-                            9.75927734375, 
-                            47.032592773553915
-                        ], 
-                        [
-                            9.7601318359375, 
-                            47.028198242303915
-                        ], 
-                        [
-                            9.765380859375, 
-                            46.959960937616415
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 1.095653998, 
+                "shape_stle": 0.647168495, 
                 "code": 501, 
-                "objectid": 122, 
-                "grade": 4, 
+                "objectid": 0, 
+                "continent1": "Europe", 
+                "grade": 1, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 116313, 
-                "#layername": "Liechtenstein", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 0.647246449, 
                 "isvisible": 1, 
-                "#mapx": 9.765380859, 
-                "#mapy": 46.959960938, 
-                "continent": "Europe", 
-                "#rotation": 0.0, 
-                "objectid_1": 102613, 
+                "#style": "", 
+                "#layername": "Liechtenstein", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 1, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "056_EUPOL", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 21.085042953, 
-                "#pagey": 24.782226562, 
-                "point_x": 9.765360874, 
-                "point_y": 46.960026157, 
-                "shape_star": 0.065145212, 
-                "wg_id": 0, 
-                "orig_fid": 120, 
-                "#opacity": 100, 
-                "name_conv": "Liechtenstein", 
-                "gfid": "DC450EEB-B392-4CFC-B916-4A494BBF042E", 
-                "fips": "LS00", 
-                "water_sm": "", 
-                "population": 0, 
-                "country": "Liechtenstein", 
-                "ocean": "", 
-                "#horizonta": 1.0, 
+                "#name": "<Path>", 
+                "ocean1": "", 
+                "#vertexcou": 21, 
+                "island1": "", 
+                "shape_star": 0.012893946, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
                 "island": "", 
-                "signif": 4, 
+                "#artscale": 1.0, 
+                "#opacity": 100, 
+                "name_conv": "", 
+                "gfid": "DC450EEB-B392-4CFC-B916-4A494BBF042E", 
+                "_component": 1, 
+                "fips": "LS00", 
+                "#areadirec": 1, 
+                "water_sm": "", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Liechtenstein", 
+                "name_loc21": "", 
+                "objectid1": 102597, 
+                "_vertexcou": 21, 
+                "ocean": "", 
+                "wg_id1": "", 
+                "country1": "Liechtenstein", 
+                "#area": 0.01289809, 
+                "#component": 1, 
+                "country": "", 
+                "signif": 1, 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

@@ -4,151 +4,64 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -61.65142822265625, 
-                            11.896240234491415
-                        ], 
-                        [
-                            -61.66058349609375, 
-                            11.896240234491415
-                        ], 
-                        [
-                            -61.68994140625, 
-                            11.917480468866415
-                        ], 
-                        [
-                            -61.705078125, 
-                            11.981933593866415
-                        ], 
-                        [
-                            -61.67730712890625, 
-                            12.030151367303915
-                        ], 
-                        [
-                            -61.62591552734375, 
-                            12.118774414178915
-                        ], 
-                        [
-                            -61.59979248046875, 
-                            12.144775390741415
-                        ], 
-                        [
-                            -61.58245849609375, 
-                            12.162109375116415
-                        ], 
-                        [
-                            -61.53851318359375, 
-                            12.155151367303915
-                        ], 
-                        [
-                            -61.47955322265625, 
-                            12.083862304803915
-                        ], 
-                        [
-                            -61.49359130859375, 
-                            12.004760742303915
-                        ], 
-                        [
-                            -61.5587158203125, 
-                            11.932617187616415
-                        ], 
-                        [
-                            -61.6241455078125, 
-                            11.896362304803915
-                        ], 
-                        [
-                            -61.65142822265625, 
-                            11.896240234491415
-                        ]
-                    ], 
-                    [
-                        [
-                            -61.40692138671875, 
-                            12.291992187616415
-                        ], 
-                        [
-                            -61.430908203125, 
-                            12.280029296991415
-                        ], 
-                        [
-                            -61.43701171875, 
-                            12.297607421991415
-                        ], 
-                        [
-                            -61.43109130859375, 
-                            12.309448242303915
-                        ], 
-                        [
-                            -61.41326904296875, 
-                            12.333251953241415
-                        ], 
-                        [
-                            -61.389404296875, 
-                            12.357055664178915
-                        ], 
-                        [
-                            -61.38336181640625, 
-                            12.357055664178915
-                        ], 
-                        [
-                            -61.365234375, 
-                            12.345458984491415
-                        ], 
-                        [
-                            -61.38311767578125, 
-                            12.321777343866415
-                        ], 
-                        [
-                            -61.40692138671875, 
-                            12.291992187616415
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 0.965181504, 
+                "shape_stle": 1.007001499, 
                 "code": 501, 
-                "objectid": 87, 
+                "objectid": 0, 
+                "continent1": "North America", 
                 "grade": 1, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 115285, 
-                "#layername": "Grenada", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 1.006994546, 
                 "isvisible": 1, 
-                "#mapx": -61.651428223, 
-                "#mapy": 11.896240234, 
-                "continent": "North America", 
-                "#rotation": 0.0, 
-                "objectid_1": 101609, 
+                "#style": "", 
+                "#layername": "Grenada", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 0, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "047_WIND", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 13.149841309, 
-                "#pagey": 28.678195953, 
-                "point_x": -61.651422865, 
-                "point_y": 11.896175503, 
-                "shape_star": 0.040793485, 
-                "wg_id": 0, 
-                "orig_fid": 85, 
+                "#name": "<Compound Path>", 
+                "ocean1": "", 
+                "#vertexcou": 49, 
+                "island1": "Windward Islands", 
+                "shape_star": 0.031058041, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
+                "island": "", 
+                "#artscale": 1.0, 
                 "#opacity": 100, 
-                "name_conv": "Grenada", 
+                "name_conv": "", 
                 "gfid": "389068CE-0B76-4AF0-A5EB-51A714C2F765", 
+                "_component": 2, 
                 "fips": "GJ00", 
+                "#areadirec": 0, 
                 "water_sm": "", 
-                "population": 0, 
-                "country": "Grenada", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Grenada", 
+                "name_loc21": "", 
+                "objectid1": 101593, 
+                "_vertexcou": 49, 
                 "ocean": "", 
-                "#horizonta": 1.0, 
-                "island": "Windward Islands", 
+                "wg_id1": "", 
+                "country1": "Grenada", 
+                "#area": 0.031073485, 
+                "#component": 2, 
+                "country": "", 
                 "signif": 1, 
                 "name_loc2": "", 
                 "name_loc1": ""

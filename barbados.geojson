@@ -4,122 +4,65 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -59.39288330078125, 
-                            12.960083007928915
-                        ], 
-                        [
-                            -59.443603515625, 
-                            12.923828125116415
-                        ], 
-                        [
-                            -59.53839111328125, 
-                            12.930297851678915
-                        ], 
-                        [
-                            -59.560302734375, 
-                            12.946289062616415
-                        ], 
-                        [
-                            -59.5970458984375, 
-                            12.972900390741415
-                        ], 
-                        [
-                            -59.5804443359375, 
-                            13.045043945428915
-                        ], 
-                        [
-                            -59.5438232421875, 
-                            13.203491211053915
-                        ], 
-                        [
-                            -59.54248046875, 
-                            13.209350586053915
-                        ], 
-                        [
-                            -59.5406494140625, 
-                            13.217041015741415
-                        ], 
-                        [
-                            -59.50433349609375, 
-                            13.238769531366415
-                        ], 
-                        [
-                            -59.50274658203125, 
-                            13.237060546991415
-                        ], 
-                        [
-                            -59.474365234375, 
-                            13.204956054803915
-                        ], 
-                        [
-                            -59.46026611328125, 
-                            13.188964843866415
-                        ], 
-                        [
-                            -59.43780517578125, 
-                            13.139404296991415
-                        ], 
-                        [
-                            -59.38604736328125, 
-                            13.024536132928915
-                        ], 
-                        [
-                            -59.3712158203125, 
-                            12.988891601678915
-                        ], 
-                        [
-                            -59.39288330078125, 
-                            12.960083007928915
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 0.844286614, 
+                "shape_stle": 0.801883112, 
                 "code": 501, 
-                "objectid": 19, 
-                "grade": 1, 
+                "objectid": 0, 
+                "continent1": "North America", 
+                "grade": 2, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 115475, 
-                "#layername": "Barbados", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 0.801687242, 
                 "isvisible": 1, 
-                "#mapx": -59.392883301, 
-                "#mapy": 12.960083008, 
-                "continent": "North America", 
-                "#rotation": 0.0, 
-                "objectid_1": 101796, 
+                "#style": "", 
+                "#layername": "Barbados", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 1, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "047_WIND", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 13.400791168, 
-                "#pagey": 28.559989929, 
-                "point_x": -59.392878578, 
-                "point_y": 12.960050294, 
-                "shape_star": 0.044344945, 
-                "wg_id": 0, 
-                "orig_fid": 17, 
+                "#name": "<Path>", 
+                "ocean1": "", 
+                "#vertexcou": 38, 
+                "island1": "Lesser Antilles", 
+                "shape_star": 0.035768997, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
+                "island": "", 
+                "#artscale": 1.0, 
                 "#opacity": 100, 
-                "name_conv": "Barbados", 
+                "name_conv": "", 
                 "gfid": "5AA74B61-705F-42DA-BE69-F346ECEEAB54", 
+                "_component": 1, 
                 "fips": "BB00", 
+                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": 0, 
-                "country": "Barbados", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Barbados", 
+                "name_loc21": "", 
+                "objectid1": 101780, 
+                "_vertexcou": 38, 
                 "ocean": "", 
-                "#horizonta": 1.0, 
-                "island": "Lesser Antilles", 
-                "signif": 1, 
+                "wg_id1": "", 
+                "country1": "Barbados", 
+                "#area": 0.035757422, 
+                "#component": 1, 
+                "country": "", 
+                "signif": 2, 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

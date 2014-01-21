@@ -4,134 +4,65 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -61.21160888671875, 
-                            15.140380859491415
-                        ], 
-                        [
-                            -61.27691650390625, 
-                            15.111450195428915
-                        ], 
-                        [
-                            -61.30780029296875, 
-                            15.135986328241415
-                        ], 
-                        [
-                            -61.321044921875, 
-                            15.146606445428915
-                        ], 
-                        [
-                            -61.3822021484375, 
-                            15.501708984491415
-                        ], 
-                        [
-                            -61.3828125, 
-                            15.586791992303915
-                        ], 
-                        [
-                            -61.37890625, 
-                            15.592773437616415
-                        ], 
-                        [
-                            -61.36846923828125, 
-                            15.608276367303915
-                        ], 
-                        [
-                            -61.3548583984375, 
-                            15.617309570428915
-                        ], 
-                        [
-                            -61.34674072265625, 
-                            15.622680664178915
-                        ], 
-                        [
-                            -61.3270263671875, 
-                            15.613281250116415
-                        ], 
-                        [
-                            -61.30267333984375, 
-                            15.601684570428915
-                        ], 
-                        [
-                            -61.2144775390625, 
-                            15.524169921991415
-                        ], 
-                        [
-                            -61.1986083984375, 
-                            15.493896484491415
-                        ], 
-                        [
-                            -61.184814453125, 
-                            15.467651367303915
-                        ], 
-                        [
-                            -61.14825439453125, 
-                            15.336547851678915
-                        ], 
-                        [
-                            -61.14727783203125, 
-                            15.333007812616415
-                        ], 
-                        [
-                            -61.1392822265625, 
-                            15.240600586053915
-                        ], 
-                        [
-                            -61.16796875, 
-                            15.176391601678915
-                        ], 
-                        [
-                            -61.21160888671875, 
-                            15.140380859491415
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 1.214647069, 
+                "shape_stle": 1.114349788, 
                 "code": 501, 
-                "objectid": 56, 
-                "grade": 1, 
+                "objectid": 0, 
+                "continent1": "North America", 
+                "grade": 2, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 115476, 
-                "#layername": "Dominica", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 1.114435772, 
                 "isvisible": 1, 
-                "#mapx": -61.211608887, 
-                "#mapy": 15.140380859, 
-                "continent": "North America", 
-                "#rotation": 0.0, 
-                "objectid_1": 101797, 
+                "#style": "", 
+                "#layername": "Dominica", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 1, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "047_WIND", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 13.198710442, 
-                "#pagey": 28.317735672, 
-                "point_x": -61.211607702, 
-                "point_y": 15.140441152, 
-                "shape_star": 0.08362938, 
-                "wg_id": 0, 
-                "orig_fid": 54, 
+                "#name": "<Path>", 
+                "ocean1": "", 
+                "#vertexcou": 39, 
+                "island1": "Lesser Antilles", 
+                "shape_star": 0.066966976, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
+                "island": "", 
+                "#artscale": 1.0, 
                 "#opacity": 100, 
-                "name_conv": "Dominica", 
+                "name_conv": "", 
                 "gfid": "AAAA6104-7C36-45F2-8EDF-15095003629C", 
+                "_component": 1, 
                 "fips": "DO00", 
+                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": 0, 
-                "country": "Dominica", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Dominica", 
+                "name_loc21": "", 
+                "objectid1": 101781, 
+                "_vertexcou": 39, 
                 "ocean": "", 
-                "#horizonta": 1.0, 
-                "island": "Lesser Antilles", 
-                "signif": 1, 
+                "wg_id1": "", 
+                "country1": "Dominica", 
+                "#area": 0.06694065, 
+                "#component": 1, 
+                "country": "", 
+                "signif": 2, 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

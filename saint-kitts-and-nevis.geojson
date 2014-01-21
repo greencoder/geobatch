@@ -4,105 +4,64 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            -62.65203857421875, 
-                            17.243652343866415
-                        ], 
-                        [
-                            -62.7181396484375, 
-                            17.243164062616415
-                        ], 
-                        [
-                            -62.74017333984375, 
-                            17.257080078241415
-                        ], 
-                        [
-                            -62.7659912109375, 
-                            17.281372070428915
-                        ], 
-                        [
-                            -62.80645751953125, 
-                            17.319702148553915
-                        ], 
-                        [
-                            -62.8067626953125, 
-                            17.361816406366415
-                        ], 
-                        [
-                            -62.7486572265625, 
-                            17.404296875116415
-                        ], 
-                        [
-                            -62.67529296875, 
-                            17.376831054803915
-                        ], 
-                        [
-                            -62.623779296875, 
-                            17.328125000116415
-                        ], 
-                        [
-                            -62.6087646484375, 
-                            17.265380859491415
-                        ], 
-                        [
-                            -62.62060546875, 
-                            17.253540039178915
-                        ], 
-                        [
-                            -62.63043212890625, 
-                            17.243896484491415
-                        ], 
-                        [
-                            -62.65203857421875, 
-                            17.243652343866415
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 0.563307024, 
+                "shape_stle": 1.03268434, 
                 "code": 501, 
-                "objectid": 176, 
+                "objectid": 0, 
+                "continent1": "North America", 
                 "grade": 1, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 115390, 
-                "#layername": "Saint Kitts and Nevis", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 1.032752816, 
                 "isvisible": 1, 
-                "#mapx": -62.652038574, 
-                "#mapy": 17.243652344, 
-                "continent": "North America", 
-                "#rotation": 0.0, 
-                "objectid_1": 101713, 
+                "#style": "", 
+                "#layername": "Saint Kitts and Nevis", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 0, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "047_WIND", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 13.038661957, 
-                "#pagey": 28.084037781, 
-                "point_x": -62.65205626, 
-                "point_y": 17.243666726, 
-                "shape_star": 0.021915652, 
-                "wg_id": 0, 
-                "orig_fid": 172, 
+                "#name": "<Compound Path>", 
+                "ocean1": "", 
+                "#vertexcou": 42, 
+                "island1": "Leeward Islands", 
+                "shape_star": 0.024240655, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
+                "island": "", 
+                "#artscale": 1.0, 
                 "#opacity": 100, 
-                "name_conv": "Saint Kitts and Nevis", 
+                "name_conv": "", 
                 "gfid": "5DFA87DA-8DD7-4089-94A0-D7BF1BF26309", 
+                "_component": 2, 
                 "fips": "SC00", 
+                "#areadirec": 0, 
                 "water_sm": "", 
-                "population": 0, 
-                "country": "Saint Kitts and Nevis", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Saint Kitts and Nevis", 
+                "name_loc21": "", 
+                "objectid1": 101697, 
+                "_vertexcou": 42, 
                 "ocean": "", 
-                "#horizonta": 1.0, 
-                "island": "Leeward Islands", 
+                "wg_id1": "", 
+                "country1": "Saint Kitts and Nevis", 
+                "#area": 0.02423045, 
+                "#component": 2, 
+                "country": "", 
                 "signif": 1, 
                 "name_loc2": "", 
                 "name_loc1": ""

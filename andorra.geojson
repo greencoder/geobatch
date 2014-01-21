@@ -4,110 +4,65 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            1.6771240234375, 
-                            42.381958007928915
-                        ], 
-                        [
-                            1.57568359375, 
-                            42.349121093866415
-                        ], 
-                        [
-                            1.4635009765625, 
-                            42.355590820428915
-                        ], 
-                        [
-                            1.440673828125, 
-                            42.357055664178915
-                        ], 
-                        [
-                            1.38671875, 
-                            42.391235351678915
-                        ], 
-                        [
-                            1.3604736328125, 
-                            42.445556640741415
-                        ], 
-                        [
-                            1.3531494140625, 
-                            42.546875000116415
-                        ], 
-                        [
-                            1.4395751953125, 
-                            42.565429687616415
-                        ], 
-                        [
-                            1.453369140625, 
-                            42.568481445428915
-                        ], 
-                        [
-                            1.596923828125, 
-                            42.564575195428915
-                        ], 
-                        [
-                            1.6549072265625, 
-                            42.527832031366415
-                        ], 
-                        [
-                            1.692138671875, 
-                            42.437500000116415
-                        ], 
-                        [
-                            1.695556640625, 
-                            42.395263671991415
-                        ], 
-                        [
-                            1.6771240234375, 
-                            42.381958007928915
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 0.94517285, 
+                "shape_stle": 0.963997254, 
                 "code": 501, 
-                "objectid": 7, 
-                "grade": 4, 
+                "objectid": 0, 
+                "continent1": "Europe", 
+                "grade": 1, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 113743, 
-                "#layername": "Andorra", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 0.963977472, 
                 "isvisible": 1, 
-                "#mapx": 1.677124023, 
-                "#mapy": 42.381958008, 
-                "continent": "Europe", 
-                "#rotation": 0.0, 
-                "objectid_1": 100099, 
+                "#style": "", 
+                "#layername": "Andorra", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 1, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "056_EUPOL", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 20.186347961, 
-                "#pagey": 25.290893555, 
-                "point_x": 1.677109719, 
-                "point_y": 42.381941974, 
-                "shape_star": 0.061573778, 
-                "wg_id": 0, 
-                "orig_fid": 6, 
-                "#opacity": 100, 
-                "name_conv": "Andorra", 
-                "gfid": "02C82C07-F0CA-4B71-B37E-70A12CD53437", 
-                "fips": "AN00", 
-                "water_sm": "", 
-                "population": 0, 
-                "country": "Andorra", 
-                "ocean": "", 
-                "#horizonta": 1.0, 
+                "#name": "<Path>", 
+                "ocean1": "", 
+                "#vertexcou": 22, 
+                "island1": "", 
+                "shape_star": 0.057561949, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
                 "island": "", 
-                "signif": 4, 
+                "#artscale": 1.0, 
+                "#opacity": 100, 
+                "name_conv": "", 
+                "gfid": "02C82C07-F0CA-4B71-B37E-70A12CD53437", 
+                "_component": 1, 
+                "fips": "AN00", 
+                "#areadirec": 1, 
+                "water_sm": "", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Andorra", 
+                "name_loc21": "", 
+                "objectid1": 100083, 
+                "_vertexcou": 22, 
+                "ocean": "", 
+                "wg_id1": "", 
+                "country1": "Andorra", 
+                "#area": 0.057604742, 
+                "#component": 1, 
+                "country": "", 
+                "signif": 1, 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

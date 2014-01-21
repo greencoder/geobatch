@@ -4,155 +4,64 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": [
-                    [
-                        [
-                            6.55615234375, 
-                            -0.05053710925858468
-                        ], 
-                        [
-                            6.5206298828125, 
-                            -0.05676269519608468
-                        ], 
-                        [
-                            6.4075927734375, 
-                            0.04443359386641532
-                        ], 
-                        [
-                            6.3900146484375, 
-                            0.09680175792891532
-                        ], 
-                        [
-                            6.383544921875, 
-                            0.11621093761641532
-                        ], 
-                        [
-                            6.38916015625, 
-                            0.17016601574141532
-                        ], 
-                        [
-                            6.39501953125, 
-                            0.18823242199141532
-                        ], 
-                        [
-                            6.4598388671875, 
-                            0.23059082042891532
-                        ], 
-                        [
-                            6.54833984375, 
-                            0.2851562501164153
-                        ], 
-                        [
-                            6.619873046875, 
-                            0.3037109376164153
-                        ], 
-                        [
-                            6.6429443359375, 
-                            0.3095703126164153
-                        ], 
-                        [
-                            6.6785888671875, 
-                            0.2739257813664153
-                        ], 
-                        [
-                            6.5972900390625, 
-                            -0.008300781133584678
-                        ], 
-                        [
-                            6.55615234375, 
-                            -0.05053710925858468
-                        ]
-                    ], 
-                    [
-                        [
-                            7.3837890625, 
-                            1.4420166016789153
-                        ], 
-                        [
-                            7.3602294921875, 
-                            1.4298095704289153
-                        ], 
-                        [
-                            7.3243408203125, 
-                            1.4715576173039153
-                        ], 
-                        [
-                            7.306396484375, 
-                            1.5195312501164153
-                        ], 
-                        [
-                            7.31201171875, 
-                            1.5615234376164153
-                        ], 
-                        [
-                            7.3475341796875, 
-                            1.5858154298039153
-                        ], 
-                        [
-                            7.383056640625, 
-                            1.5920410157414153
-                        ], 
-                        [
-                            7.4010009765625, 
-                            1.5800781251164153
-                        ], 
-                        [
-                            7.401123046875, 
-                            1.5526123048039153
-                        ], 
-                        [
-                            7.4014892578125, 
-                            1.4841308594914153
-                        ], 
-                        [
-                            7.3837890625, 
-                            1.4420166016789153
-                        ]
-                    ]
-                ]
+                "coordinates": []
             }, 
             "type": "Feature", 
             "properties": {
                 "comment": "", 
-                "shape_stle": 1.436227184, 
+                "shape_stle": 1.436449725, 
                 "code": 501, 
-                "objectid": 194, 
+                "objectid": 0, 
+                "continent1": "Africa", 
                 "grade": 1, 
                 "dual_name": "", 
                 "water_lg": "", 
-                "#style": "[MAPublisher Default Symbol]", 
-                "objectid1": 113783, 
-                "#layername": "Sao Tome and Principe", 
-                "#verticals": 1.0, 
+                "#pathclose": "?", 
+                "#perimeter": 1.436697598, 
                 "isvisible": 1, 
-                "#mapx": 6.556152344, 
-                "#mapy": -0.050537109, 
-                "continent": "Africa", 
-                "#rotation": 0.0, 
-                "objectid_1": 100139, 
+                "#style": "", 
+                "#layername": "Sao Tome and Principe", 
+                "water_lg1": "", 
+                "continent": "", 
+                "_strokewei": 1.0, 
+                "_areadirec": 0, 
+                "_pathclose": "?", 
                 "#id": -214748364, 
-                "wg_populat": 0, 
+                "wg_populat": "", 
                 "feature": "Country", 
-                "source": "", 
+                "state1": "", 
+                "source": "109_ATOCPOL", 
                 "state": "", 
-                "#name": "[MAPublisher Default Symbol]", 
-                "#pagex": 20.728462219, 
-                "#pagey": 30.005615234, 
-                "point_x": 6.556129522, 
-                "point_y": -0.05051946, 
-                "shape_star": 0.079417071, 
-                "wg_id": 0, 
-                "orig_fid": 190, 
-                "#opacity": 100, 
-                "name_conv": "Sao Tome and Principe", 
-                "gfid": "53B16C48-71E0-46D9-B966-8D5703A8C2EC", 
-                "fips": "TP00", 
-                "water_sm": "", 
-                "population": 0, 
-                "country": "Sao Tome and Principe", 
-                "ocean": "", 
-                "#horizonta": 1.0, 
+                "#name": "<Compound Path>", 
+                "ocean1": "", 
+                "#vertexcou": 24, 
+                "island1": "", 
+                "shape_star": 0.078748226, 
+                "water_sm1": "", 
+                "#strokewei": 1.0, 
+                "wg_id": "", 
                 "island": "", 
+                "#artscale": 1.0, 
+                "#opacity": 100, 
+                "name_conv": "", 
+                "gfid": "53B16C48-71E0-46D9-B966-8D5703A8C2EC", 
+                "_component": 2, 
+                "fips": "TP00", 
+                "#areadirec": 0, 
+                "water_sm": "", 
+                "population": "", 
+                "dual_name1": "", 
+                "name_loc11": "", 
+                "name_conv1": "Sao Tome and Principe", 
+                "name_loc21": "", 
+                "objectid1": 100123, 
+                "_vertexcou": 24, 
+                "ocean": "", 
+                "wg_id1": "", 
+                "country1": "Sao Tome and Principe", 
+                "#area": 0.078786939, 
+                "#component": 2, 
+                "country": "", 
                 "signif": 1, 
                 "name_loc2": "", 
                 "name_loc1": ""
