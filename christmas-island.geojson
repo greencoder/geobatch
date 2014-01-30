@@ -4,65 +4,99 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            105.77821792325437, 
+                            -10.302715140497753
+                        ], 
+                        [
+                            105.75458511300815, 
+                            -10.279521783334644
+                        ], 
+                        [
+                            105.71933121012023, 
+                            -10.279619439575356
+                        ], 
+                        [
+                            105.64901871682576, 
+                            -10.314873342463272
+                        ], 
+                        [
+                            105.61381364205818, 
+                            -10.315019826824312
+                        ], 
+                        [
+                            105.57851091104993, 
+                            -10.297685844102375
+                        ], 
+                        [
+                            105.54931169508455, 
+                            -10.33264677826827
+                        ], 
+                        [
+                            105.53197771236267, 
+                            -10.37932646131651
+                        ], 
+                        [
+                            105.56737809961163, 
+                            -10.414092083001037
+                        ], 
+                        [
+                            105.62021012582318, 
+                            -10.413750286158631
+                        ], 
+                        [
+                            105.66742691819519, 
+                            -10.45427762604362
+                        ], 
+                        [
+                            105.71444839808589, 
+                            -10.454179969802965
+                        ], 
+                        [
+                            105.73183120892816, 
+                            -10.419267863757398
+                        ], 
+                        [
+                            105.78427261017697, 
+                            -10.355010057385527
+                        ], 
+                        [
+                            105.77821792325437, 
+                            -10.302715140497753
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.703153393, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Oceania", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.703417004, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Christmas Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 105.778217923, 
+                "#mapy": -10.30271514, 
+                "continent": "Oceania", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "131_INDOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 14, 
-                "island1": "", 
-                "shape_star": 0.028754165, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 79.382843018, 
+                "#pagey": 77.889663696, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Christmas Island", 
                 "gfid": "87892575-2632-4327-9372-50C589EC626A", 
-                "_component": 1, 
                 "fips": "ASX2", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Christmas Island", 
-                "name_loc21": "", 
-                "objectid1": 96792, 
-                "_vertexcou": 14, 
+                "population": 0, 
+                "country": "Australia", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "Australia", 
-                "#area": 0.028745989, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

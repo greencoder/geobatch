@@ -4,65 +4,107 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -62.18780609731981, 
+                            16.68229205163641
+                        ], 
+                        [
+                            -62.1727182081337, 
+                            16.68903033224379
+                        ], 
+                        [
+                            -62.16517426354065, 
+                            16.695963925332563
+                        ], 
+                        [
+                            -62.16517426354065, 
+                            16.736393608976897
+                        ], 
+                        [
+                            -62.172889106554905, 
+                            16.7687178246442
+                        ], 
+                        [
+                            -62.19283539371517, 
+                            16.802506883921836
+                        ], 
+                        [
+                            -62.20360199425089, 
+                            16.814713914007683
+                        ], 
+                        [
+                            -62.21834808659459, 
+                            16.819938522884428
+                        ], 
+                        [
+                            -62.219617617723515, 
+                            16.81876664799617
+                        ], 
+                        [
+                            -62.224744570359576, 
+                            16.812956101675326
+                        ], 
+                        [
+                            -62.24788909940234, 
+                            16.738737358753355
+                        ], 
+                        [
+                            -62.24827972436509, 
+                            16.72804400039817
+                        ], 
+                        [
+                            -62.24124847503565, 
+                            16.71232134564761
+                        ], 
+                        [
+                            -62.22552582028507, 
+                            16.70001665932105
+                        ], 
+                        [
+                            -62.2049691816205, 
+                            16.685172910736668
+                        ], 
+                        [
+                            -62.197693791689346, 
+                            16.68141314547023
+                        ], 
+                        [
+                            -62.18780609731981, 
+                            16.68229205163641
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.350145821, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "North America", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.350025491, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Montserrat", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -62.187806097, 
+                "#mapy": 16.682292052, 
+                "continent": "North America", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "047_WIND", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 16, 
-                "island1": "Leeward Islands", 
-                "shape_star": 0.008012961, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 32.725605011, 
+                "#pagey": 70.393829346, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Montserrat", 
                 "gfid": "C030B22D-09EB-4180-B0DA-590B5D4AB8D7", 
-                "_component": 1, 
                 "fips": "UKB5", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Montserrat", 
-                "name_loc21": "", 
-                "objectid1": 101699, 
-                "_vertexcou": 16, 
+                "population": 0, 
+                "country": "United Kingdom", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "United Kingdom", 
-                "#area": 0.008008774, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Leeward Islands", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

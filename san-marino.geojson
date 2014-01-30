@@ -4,65 +4,83 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            12.441459246416315, 
+                            43.87457461462827
+                        ], 
+                        [
+                            12.475052993212586, 
+                            43.89908633104065
+                        ], 
+                        [
+                            12.47685963366527, 
+                            43.92496523482265
+                        ], 
+                        [
+                            12.463285416209828, 
+                            43.94439882671929
+                        ], 
+                        [
+                            12.45068776116122, 
+                            43.952406638455614
+                        ], 
+                        [
+                            12.414554952107125, 
+                            43.95621523184241
+                        ], 
+                        [
+                            12.391410423064343, 
+                            43.949379294994344
+                        ], 
+                        [
+                            12.354594020325436, 
+                            43.91598086067944
+                        ], 
+                        [
+                            12.357084254462961, 
+                            43.88751406651926
+                        ], 
+                        [
+                            12.386381126668994, 
+                            43.86891055266844
+                        ], 
+                        [
+                            12.441459246416315, 
+                            43.87457461462827
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.334951967, 
-                "code": 501, 
-                "objectid": 0, 
-                "continent1": "Europe", 
-                "grade": 1, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.335033792, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "San Marino", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 12.441459246, 
+                "#mapy": 43.874574615, 
+                "continent": "Europe", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Country", 
-                "state1": "", 
-                "source": "056_EUPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 10, 
-                "island1": "", 
-                "shape_star": 0.008078076, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 53.45595932, 
+                "#pagey": 62.84041214, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "San Marino", 
                 "gfid": "7C596291-0112-4EE3-94E7-70B74ED33D68", 
-                "_component": 1, 
                 "fips": "SM00", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "San Marino", 
-                "name_loc21": "", 
-                "objectid1": 4294, 
-                "_vertexcou": 10, 
+                "population": 0, 
+                "country": "San Marino", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "San Marino", 
-                "#area": 0.008074239, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 1, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

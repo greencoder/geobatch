@@ -4,65 +4,111 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -69.8912965735952, 
+                            12.446159643125497
+                        ], 
+                        [
+                            -69.88978290186456, 
+                            12.455534642231385
+                        ], 
+                        [
+                            -69.89896258848911, 
+                            12.483854952030583
+                        ], 
+                        [
+                            -69.95609148929088, 
+                            12.551921351789247
+                        ], 
+                        [
+                            -69.99110125157709, 
+                            12.587956504602687
+                        ], 
+                        [
+                            -70.0039430472274, 
+                            12.596599081903435
+                        ], 
+                        [
+                            -70.01392839783762, 
+                            12.608269002665509
+                        ], 
+                        [
+                            -70.05589616727276, 
+                            12.64015376524975
+                        ], 
+                        [
+                            -70.06502702577697, 
+                            12.63082759426419
+                        ], 
+                        [
+                            -70.07347429059638, 
+                            12.56774166278052
+                        ], 
+                        [
+                            -70.06434343209217, 
+                            12.54586666486665
+                        ], 
+                        [
+                            -70.0577516358458, 
+                            12.536394009520052
+                        ], 
+                        [
+                            -70.0423219498173, 
+                            12.52311276078666
+                        ], 
+                        [
+                            -69.9951539855656, 
+                            12.491130341961764
+                        ], 
+                        [
+                            -69.94637469334255, 
+                            12.459929173062335
+                        ], 
+                        [
+                            -69.90584735345753, 
+                            12.443620580867616
+                        ], 
+                        [
+                            -69.89857196352636, 
+                            12.442058081016626
+                        ], 
+                        [
+                            -69.8912965735952, 
+                            12.446159643125497
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.56861453, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "North America", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.568783856, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Aruba", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -69.891296574, 
+                "#mapy": 12.446159643, 
+                "continent": "North America", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "051_NWSA", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 17, 
-                "island1": "Lesser Antilles", 
-                "shape_star": 0.015152006, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 30.585746765, 
+                "#pagey": 71.570526123, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Aruba", 
                 "gfid": "E431EB39-7FCE-4BDF-8BEF-F3EA75AB5178", 
-                "_component": 1, 
                 "fips": "NLX1", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Aruba", 
-                "name_loc21": "", 
-                "objectid1": 101784, 
-                "_vertexcou": 17, 
+                "population": 0, 
+                "country": "Netherlands", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "Netherlands", 
-                "#area": 0.015153133, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Lesser Antilles", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

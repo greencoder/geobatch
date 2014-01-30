@@ -4,65 +4,99 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -64.73956366646524, 
+                            32.25836478493636
+                        ], 
+                        [
+                            -64.75609198520148, 
+                            32.25621634764124
+                        ], 
+                        [
+                            -64.7596076098662, 
+                            32.25577689455815
+                        ], 
+                        [
+                            -64.76356268761401, 
+                            32.25533744147506
+                        ], 
+                        [
+                            -64.76370917197504, 
+                            32.25406791034615
+                        ], 
+                        [
+                            -64.766687687316, 
+                            32.23805228687351
+                        ], 
+                        [
+                            -64.766687687316, 
+                            32.232290568672994
+                        ], 
+                        [
+                            -64.77352362416407, 
+                            32.22076713227196
+                        ], 
+                        [
+                            -64.76317206265126, 
+                            32.21212455497118
+                        ], 
+                        [
+                            -64.76175604716131, 
+                            32.21363822670182
+                        ], 
+                        [
+                            -64.74962225925597, 
+                            32.226577678592804
+                        ], 
+                        [
+                            -64.74620429083194, 
+                            32.229556193933774
+                        ], 
+                        [
+                            -64.73236151871458, 
+                            32.212271039332194
+                        ], 
+                        [
+                            -64.72222968374334, 
+                            32.22672416295384
+                        ], 
+                        [
+                            -64.73956366646524, 
+                            32.25836478493636
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.1745596, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "North America", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.175132045, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Bermuda", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -64.739563666, 
+                "#mapy": 32.258364785, 
+                "continent": "North America", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "109_ATOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 14, 
-                "island1": "Bermuda Islands", 
-                "shape_star": 0.001412957, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 32.016784668, 
+                "#pagey": 66.067138672, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Bermuda", 
                 "gfid": "D353EFD8-4F58-46B6-B127-5BBD78895368", 
-                "_component": 1, 
                 "fips": "UKB2", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Bermuda", 
-                "name_loc21": "", 
-                "objectid1": 102299, 
-                "_vertexcou": 14, 
+                "population": 0, 
+                "country": "United Kingdom", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "United Kingdom", 
-                "#area": 0.001421636, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Bermuda Islands", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

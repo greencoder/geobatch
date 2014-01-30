@@ -4,65 +4,83 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -162.08298700026046, 
+                            5.891472768229107
+                        ], 
+                        [
+                            -162.06374872084515, 
+                            5.929558702096983
+                        ], 
+                        [
+                            -162.05901239317186, 
+                            5.948601669030893
+                        ], 
+                        [
+                            -162.09241082748673, 
+                            5.9773614319131525
+                        ], 
+                        [
+                            -162.1402135573029, 
+                            5.982293072067819
+                        ], 
+                        [
+                            -162.18332878756613, 
+                            5.963250105133909
+                        ], 
+                        [
+                            -162.20246941074072, 
+                            5.9442071381999995
+                        ], 
+                        [
+                            -162.19294792727376, 
+                            5.9060235480914685
+                        ], 
+                        [
+                            -162.17864128801315, 
+                            5.896502064624485
+                        ], 
+                        [
+                            -162.15476433716523, 
+                            5.88209776912322
+                        ], 
+                        [
+                            -162.08298700026046, 
+                            5.891472768229107
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.385334279, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Oceania", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.385322196, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Palmyra Atoll", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -162.082987, 
+                "#mapy": 5.891472768, 
+                "continent": "Oceania", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "093_PACOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 10, 
-                "island1": "Polynesia", 
-                "shape_star": 0.010642236, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 4.976942062, 
+                "#pagey": 73.391273499, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Palmyra Atoll", 
                 "gfid": "79CCAAD2-0E3C-4069-88C3-0B258420E149", 
-                "_component": 1, 
                 "fips": "USY2", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Palmyra Atoll", 
-                "name_loc21": "", 
-                "objectid1": 101723, 
-                "_vertexcou": 10, 
+                "population": 0, 
+                "country": "United States", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "United States", 
-                "#area": 0.010644079, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Polynesia", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

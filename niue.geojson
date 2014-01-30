@@ -4,65 +4,83 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -169.93174113455743, 
+                            -18.889872524687632
+                        ], 
+                        [
+                            -169.98357218430195, 
+                            -18.939188926234408
+                        ], 
+                        [
+                            -169.99236124596376, 
+                            -19.005058060577653
+                        ], 
+                        [
+                            -169.94917277352002, 
+                            -19.046317822267838
+                        ], 
+                        [
+                            -169.9245389868068, 
+                            -19.046415478508493
+                        ], 
+                        [
+                            -169.92329386973802, 
+                            -19.046415478508493
+                        ], 
+                        [
+                            -169.87129192157232, 
+                            -19.005302201179404
+                        ], 
+                        [
+                            -169.86257610209103, 
+                            -18.93938423871583
+                        ], 
+                        [
+                            -169.90569133235422, 
+                            -18.889970180928287
+                        ], 
+                        [
+                            -169.90696086348316, 
+                            -18.889970180928287
+                        ], 
+                        [
+                            -169.93174113455743, 
+                            -18.889872524687632
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.447975707, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Oceania", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.447654018, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Niue", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -169.931741135, 
+                "#mapy": -18.889872525, 
+                "continent": "Oceania", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "093_PACOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 10, 
-                "island1": "Polynesia", 
-                "shape_star": 0.014632111, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 2.796732664, 
+                "#pagey": 80.274986267, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Niue", 
                 "gfid": "FE98283D-FC21-444C-B020-4FFE6FF04841", 
-                "_component": 1, 
                 "fips": "NZX2", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Niue", 
-                "name_loc21": "", 
-                "objectid1": 102277, 
-                "_vertexcou": 10, 
+                "population": 0, 
+                "country": "New Zealand", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "New Zealand", 
-                "#area": 0.0146144, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Polynesia", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

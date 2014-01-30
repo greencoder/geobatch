@@ -4,65 +4,71 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            54.47182633183817, 
+                            -15.977763427407979
+                        ], 
+                        [
+                            54.48305679951713, 
+                            -15.963114991304963
+                        ], 
+                        [
+                            54.481543127786495, 
+                            -15.955107179568643
+                        ], 
+                        [
+                            54.465625160554566, 
+                            -15.944950930537232
+                        ], 
+                        [
+                            54.453613442950086, 
+                            -15.948661867683313
+                        ], 
+                        [
+                            54.444629068806904, 
+                            -15.966239991006944
+                        ], 
+                        [
+                            54.44917008399884, 
+                            -15.97932592725897
+                        ], 
+                        [
+                            54.47182633183817, 
+                            -15.977763427407979
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.114398455, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Africa", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.114078488, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Tromelin Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 54.471826332, 
+                "#mapy": -15.977763427, 
+                "continent": "Africa", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "047_WIND", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 7, 
-                "island1": "", 
-                "shape_star": 0.000937461, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 65.131065369, 
+                "#pagey": 79.466064453, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Tromelin Island", 
                 "gfid": "F3C3CF41-780B-4F04-874E-4803F0B262AD", 
-                "_component": 1, 
                 "fips": "FRY6", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Tromelin Island", 
-                "name_loc21": "", 
-                "objectid1": 96468, 
-                "_vertexcou": 7, 
+                "population": 0, 
+                "country": "France", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "France", 
-                "#area": 0.000931225, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

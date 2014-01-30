@@ -4,65 +4,67 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            39.777735936300815, 
+                            -21.52654219511021
+                        ], 
+                        [
+                            39.78047031104006, 
+                            -21.51682539916186
+                        ], 
+                        [
+                            39.77475742095987, 
+                            -21.4975382916262
+                        ], 
+                        [
+                            39.75273593868502, 
+                            -21.516630086680493
+                        ], 
+                        [
+                            39.757130469515914, 
+                            -21.52854414804426
+                        ], 
+                        [
+                            39.76777499975077, 
+                            -21.533817585041334
+                        ], 
+                        [
+                            39.777735936300815, 
+                            -21.52654219511021
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.096251783, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Africa", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.096493259, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Bassas da India", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 39.777735936, 
+                "#mapy": -21.526542195, 
+                "continent": "Africa", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "088_SAF", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 6, 
-                "island1": "Bassas da India", 
-                "shape_star": 0.000593745, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 61.049369812, 
+                "#pagey": 81.007392883, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Bassas da India", 
                 "gfid": "97C25FC5-A1F1-4DC5-8162-D56D9BE7911F", 
-                "_component": 1, 
                 "fips": "FRY2", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Bassas da India", 
-                "name_loc21": "", 
-                "objectid1": 101516, 
-                "_vertexcou": 6, 
+                "population": 0, 
+                "country": "France", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "France", 
-                "#area": 0.00059767, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Bassas da India", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

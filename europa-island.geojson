@@ -4,67 +4,77 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            40.300782761419185, 
+                            -22.653446384515235
+                        ], 
+                        [
+                            40.30439604232461, 
+                            -22.652665134589768
+                        ], 
+                        [
+                            40.31318510398643, 
+                            -22.626542090206044
+                        ], 
+                        [
+                            40.29253080908117, 
+                            -22.626102637122926
+                        ], 
+                        [
+                            40.275294482599946, 
+                            -22.631083105397977
+                        ], 
+                        [
+                            40.27089995176905, 
+                            -22.638114354727406
+                        ], 
+                        [
+                            40.282032763207326, 
+                            -22.65393466571868
+                        ], 
+                        [
+                            40.28408354426176, 
+                            -22.65696200917995
+                        ], 
+                        [
+                            40.300782761419185, 
+                            -22.653446384515235
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.118273597, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Africa", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.118356318, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Europa Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 40.300782761, 
+                "#mapy": -22.653446385, 
+                "continent": "Africa", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "088_SAF", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 8, 
-                "island1": "", 
-                "shape_star": 0.000900329, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 61.194660187, 
+                "#pagey": 81.320419312, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Europa Island", 
                 "gfid": "B0F90D3F-4DD3-45A7-B16C-FEB6BBB19CA3", 
-                "_component": 1, 
                 "fips": "FRY3", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "\u00cele Europa", 
-                "name_conv1": "Europa Island", 
-                "name_loc21": "", 
-                "objectid1": 96783, 
-                "_vertexcou": 8, 
+                "population": 0, 
+                "country": "France", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "France", 
-                "#area": 0.000897884, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
-                "name_loc1": ""
+                "name_loc1": "le Europa"
             }
         }
     ]

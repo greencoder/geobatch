@@ -4,65 +4,75 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -109.22520395523398, 
+                            10.221159855317978
+                        ], 
+                        [
+                            -109.26751352151152, 
+                            10.288445005151175
+                        ], 
+                        [
+                            -109.33553109314985, 
+                            10.305339534789994
+                        ], 
+                        [
+                            -109.39490608748741, 
+                            10.330681329248193
+                        ], 
+                        [
+                            -109.42041878036684, 
+                            10.330778985488905
+                        ], 
+                        [
+                            -109.40352425072803, 
+                            10.271941100475146
+                        ], 
+                        [
+                            -109.40362190696871, 
+                            10.229948916979822
+                        ], 
+                        [
+                            -109.22530161147466, 
+                            10.195964545220818
+                        ], 
+                        [
+                            -109.22520395523398, 
+                            10.221159855317978
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.549564927, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Oceania", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.549359663, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Clipperton Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -109.225203955, 
+                "#mapy": 10.221159855, 
+                "continent": "Oceania", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "093_PACOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 8, 
-                "island1": "", 
-                "shape_star": 0.01523355, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 19.659660339, 
+                "#pagey": 72.188583374, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Clipperton Island", 
                 "gfid": "06F30EC5-A8E3-4CDA-B4A9-9F427CC68E09", 
-                "_component": 1, 
                 "fips": "FRY7", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Clipperton Island", 
-                "name_loc21": "", 
-                "objectid1": 96282, 
-                "_vertexcou": 8, 
+                "population": 0, 
+                "country": "France", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "France", 
-                "#area": 0.015212488, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

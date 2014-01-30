@@ -4,65 +4,71 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            42.67832159717943, 
+                            -17.05417934037797
+                        ], 
+                        [
+                            42.664893864085, 
+                            -17.036503560813628
+                        ], 
+                        [
+                            42.63886847594196, 
+                            -17.025907858699156
+                        ], 
+                        [
+                            42.632374335936305, 
+                            -17.033085592389625
+                        ], 
+                        [
+                            42.6320325390939, 
+                            -17.040653951042827
+                        ], 
+                        [
+                            42.64936652181578, 
+                            -17.06038051166155
+                        ], 
+                        [
+                            42.66552862964946, 
+                            -17.063114886400797
+                        ], 
+                        [
+                            42.67832159717943, 
+                            -17.05417934037797
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.12576948, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Africa", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.125495355, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Juan de Nova Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": 42.678321597, 
+                "#mapy": -17.05417934, 
+                "continent": "Africa", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "088_SAF_INSET", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 7, 
-                "island1": "", 
-                "shape_star": 0.00099842, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 61.85508728, 
+                "#pagey": 79.765068054, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Juan de Nova Island", 
                 "gfid": "C03E5034-905D-44D0-81A3-2158E7E292B7", 
-                "_component": 1, 
                 "fips": "FRY4", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Juan de Nova Island", 
-                "name_loc21": "", 
-                "objectid1": 96790, 
-                "_vertexcou": 7, 
+                "population": 0, 
+                "country": "France", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "France", 
-                "#area": 0.000996395, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }

@@ -4,65 +4,95 @@
         {
             "geometry": {
                 "type": "Polygon", 
-                "coordinates": []
+                "coordinates": [
+                    [
+                        [
+                            -160.20801159313456, 
+                            -0.38757936732878306
+                        ], 
+                        [
+                            -160.14890515345888, 
+                            -0.362872338435011
+                        ], 
+                        [
+                            -160.09304578378604, 
+                            -0.3411438248822378
+                        ], 
+                        [
+                            -160.09607312724734, 
+                            -0.3006164849971924
+                        ], 
+                        [
+                            -160.11457898485747, 
+                            -0.24758914630427853
+                        ], 
+                        [
+                            -160.15178601255914, 
+                            -0.21653446176588886
+                        ], 
+                        [
+                            -160.17351452611194, 
+                            -0.21633914928452214
+                        ], 
+                        [
+                            -160.1952674537249, 
+                            -0.21936649274579167
+                        ], 
+                        [
+                            -160.21089245223482, 
+                            -0.25364383322687445
+                        ], 
+                        [
+                            -160.22336803698255, 
+                            -0.27854617460201325
+                        ], 
+                        [
+                            -160.22956920826616, 
+                            -0.30344851597715206
+                        ], 
+                        [
+                            -160.24206920707405, 
+                            -0.3438781996214857
+                        ], 
+                        [
+                            -160.2173621781803, 
+                            -0.3938781948530732
+                        ], 
+                        [
+                            -160.20801159313456, 
+                            -0.38757936732878306
+                        ]
+                    ]
+                ]
             }, 
             "type": "Feature", 
             "properties": {
-                "comment": "", 
-                "shape_stle": 0.513436984, 
-                "code": 506, 
-                "objectid": 0, 
-                "continent1": "Oceania", 
-                "grade": 2, 
-                "dual_name": "", 
                 "water_lg": "", 
-                "#pathclose": "?", 
-                "#perimeter": 0.513383427, 
-                "isvisible": 1, 
-                "#style": "", 
+                "#style": "[MAPublisher Default Symbol]", 
+                "#verticals": 1.0, 
                 "#layername": "Jarvis Island", 
-                "water_lg1": "", 
-                "continent": "", 
-                "_strokewei": 1.0, 
-                "_areadirec": 1, 
-                "_pathclose": "?", 
+                "#mapx": -160.208011593, 
+                "#mapy": -0.387579367, 
+                "continent": "Oceania", 
+                "#rotation": 0.0, 
                 "#id": -214748364, 
-                "wg_populat": "", 
+                "wg_populat": 0.0, 
                 "feature": "Possession", 
-                "state1": "", 
-                "source": "093_PACOCPOL", 
                 "state": "", 
-                "#name": "<Path>", 
-                "ocean1": "", 
-                "#vertexcou": 13, 
-                "island1": "Polynesia", 
-                "shape_star": 0.017619718, 
-                "water_sm1": "", 
-                "#strokewei": 1.0, 
-                "wg_id": "", 
-                "island": "", 
-                "#artscale": 1.0, 
+                "#name": "[MAPublisher Default Symbol]", 
+                "#pagex": 5.497768879, 
+                "#pagey": 75.1354599, 
+                "wg_id": 0.0, 
                 "#opacity": 100, 
-                "name_conv": "", 
+                "name_conv": "Jarvis Island", 
                 "gfid": "6306ADD2-EB65-417E-8831-C651F08E4F31", 
-                "_component": 1, 
                 "fips": "USX5", 
-                "#areadirec": 1, 
                 "water_sm": "", 
-                "population": "", 
-                "dual_name1": "", 
-                "name_loc11": "", 
-                "name_conv1": "Jarvis Island", 
-                "name_loc21": "", 
-                "objectid1": 102273, 
-                "_vertexcou": 13, 
+                "population": 0, 
+                "country": "United States", 
                 "ocean": "", 
-                "wg_id1": "", 
-                "country1": "United States", 
-                "#area": 0.017616225, 
-                "#component": 1, 
-                "country": "", 
-                "signif": 2, 
+                "#horizonta": 1.0, 
+                "island": "Polynesia", 
                 "name_loc2": "", 
                 "name_loc1": ""
             }
